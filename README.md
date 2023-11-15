@@ -1,26 +1,15 @@
-# Project 5 - *Implementing Table Views*
+*Tumblr Blog - Pt.1*
 
-Submitted by: **Ravi Tiwari**
+## Features
 
-Time spent: **4** hours spent in total
+The following functionalities are implemented:
 
-## Required Features
-
-The following **required** functionality is completed:
-
-- [X] App has a configured table view and table view call
-- [X] App populates the table view with data fetched from an API
+-  App has a configured table view and table view call
+-  App populates the table view with data fetched from an API
+-  App has a refresh control to update the table view
 
 
-The following **optional** features are implemented:
-
-- [X] App fetches posts from a different Tumblr blog
-- [X] App has a refresh control to update the table view
-
-
-## Video Walkthrough
-
-[![Video](https://img.youtube.com/vi/iEBrpN3UwfU/maxresdefault.jpg)](https://youtu.be/iEBrpN3UwfU)
+https://github.com/ravitiwari2002/Tumblr-Blog-Part-1/assets/81186121/59af0d36-2ab5-4bb1-9e23-82643ce54c27
 
 
 ## License
