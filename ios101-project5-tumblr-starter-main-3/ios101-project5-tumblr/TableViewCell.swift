@@ -1,10 +1,3 @@
-//
-//  TableViewCell.swift
-//  ios101-project5-tumblr
-//
-//  Created by Ravi Tiwari on 10/22/23.
-//
-
 import UIKit
 
 class TableViewCell: UITableViewCell {
